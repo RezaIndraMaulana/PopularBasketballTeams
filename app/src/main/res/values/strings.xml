@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PopularBasketballTeams</string>
+    <string name="club_name">Club Name</string>
+    <string name="description">Description</string>
+</resources>
